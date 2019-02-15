@@ -1,2 +1,0 @@
-@ECHO ON
-gradlew build
